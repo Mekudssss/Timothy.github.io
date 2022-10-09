@@ -1,0 +1,3 @@
+C:\Users\Timothy\Downloads\Kards10\obj\x86\Debug\PortfolioTimothy.vbproj.AssemblyReference.cache
+C:\Users\Timothy\Downloads\Kards10\obj\x86\Debug\PortfolioTimothy.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Timothy\Downloads\Kards10\obj\x86\Debug\PortfolioTimothy.vbproj.CoreCompileInputs.cache
